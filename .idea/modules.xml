@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/ad/melos_fastyle_ad.iml" filepath="$PROJECT_DIR$/packages/ad/melos_fastyle_ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/calculator/melos_fastyle_calculator.iml" filepath="$PROJECT_DIR$/packages/calculator/melos_fastyle_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/chart/melos_fastyle_chart.iml" filepath="$PROJECT_DIR$/packages/chart/melos_fastyle_chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/core/melos_fastyle_core.iml" filepath="$PROJECT_DIR$/packages/core/melos_fastyle_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/form/melos_fastyle_form.iml" filepath="$PROJECT_DIR$/packages/form/melos_fastyle_form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/iap/melos_fastyle_iap.iml" filepath="$PROJECT_DIR$/packages/iap/melos_fastyle_iap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/payment/melos_fastyle_payment.iml" filepath="$PROJECT_DIR$/packages/payment/melos_fastyle_payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/pricing/melos_fastyle_pricing.iml" filepath="$PROJECT_DIR$/packages/pricing/melos_fastyle_pricing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/ui/melos_fastyle_ui.iml" filepath="$PROJECT_DIR$/packages/ui/melos_fastyle_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_fastyle.iml" filepath="$PROJECT_DIR$/melos_fastyle.iml" />
+    </modules>
+  </component>
+</project>
